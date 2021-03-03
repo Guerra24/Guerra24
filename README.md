@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo but more known as *Guerra24*
 
-I'm mostly a software developer, I've been doing this since 2014 and my progression is not exactly the easiest one. The first language I leared was Java along with OpenGL/GLSL as my objective back then was to do a minecraft clone and more recently worked on my own game engine and then moved to [Anarchy Engine](https://github.com/orange451/AnarchyEngine) where I wrote the entire renderer.
+I'm mostly a software developer, I've been doing this since 2014 and my progression is not exactly the easiest one. The first language I leared was Java along with OpenGL/GLSL as my objective back then was to do a minecraft clone. More recently worked on my own game engine and then moved to [Anarchy Engine](https://github.com/orange451/AnarchyEngine) where I wrote the entire renderer.
 
 I also hack around with bleeding-edge tools and software, probably my most well known contribution was running Ubuntu's Unity desktop inside WSL 1... yeah that was me.
 
