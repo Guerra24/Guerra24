@@ -22,6 +22,8 @@ Who is the one on the left? She is a character I made in Koikatsu then exported 
 
 ![](https://github-readme-stats.vercel.app/api?username=Guerra24&show_icons=true&count_private=true&hide_title=true&hide_rank=true&theme=dark)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guerra24&theme=dark)
+
 <h3 align="left">Donations</h3>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G13SCUO)
