@@ -6,7 +6,7 @@ I also hack around with bleeding-edge tools and software, probably my most well 
 
 Also have experience with Linux, deploying and managing servers with or without Docker. All my servers run Debian ♥ 
 
-Currently working in two project: [Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) a complete theme for Firefox with the style of UWP and [LRReader](https://github.com/Guerra24/LRReader) an UWP client for [LANraragi](https://github.com/Difegue/LANraragi).
+Currently working on two project: [Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) a complete theme for Firefox with the style of UWP and [LRReader](https://github.com/Guerra24/LRReader) an UWP client for [LANraragi](https://github.com/Difegue/LANraragi).
 
 Who is the one on the left? She is a character I made in Koikatsu then exported to Blender where I cleaned up and got the rig ready for use in renders. Yes, I know (kind of) Blender but more on the materials, lighting, rendering and compositing.
 
