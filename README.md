@@ -4,7 +4,7 @@ I'm mostly a software developer, I've been doing this since 2014 and my progress
 
 I also hack around with bleeding-edge tools and software, probably my most well known contribution was running Ubuntu's Unity desktop inside WSL 1... yeah that was me.
 
-Also have experience with linux, deploying and managing servers with or without docker. All my servers run Debian ♥ 
+Also have experience with Linux, deploying and managing servers with or without Docker. All my servers run Debian ♥ 
 
 Currently working in two project: [Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) a complete theme for Firefox with the style of UWP and [LRReader](https://github.com/Guerra24/LRReader) an UWP client for [LANraragi](https://github.com/Difegue/LANraragi).
 
