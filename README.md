@@ -1,6 +1,6 @@
 ### Hi, I'm Guerra24
 
-I'm mostly a software developer, I've been doing this since 2015 and my progression is not exactly the easiest one. The first language I learned was Java along with OpenGL/GLSL as my goal back then was to create a minecraft clone. More recently worked on my own game engine and then moved to [Anarchy Engine](https://github.com/orange451/AnarchyEngine) where I wrote the entire renderer.
+I've been doing this since 2015 and my progression is not exactly the easiest one. The first language I learned was Java along with OpenGL/GLSL as my goal back then was to create a minecraft clone. More recently worked on my own game engine and then moved to [Anarchy Engine](https://github.com/orange451/AnarchyEngine) where I wrote the entire renderer.
 
 I also hack around with bleeding-edge tools and software, probably my most well known contribution was running Ubuntu's Unity desktop inside WSL 1... yeah that was me.
 
@@ -9,6 +9,18 @@ Also have experience with Linux, deploying and managing servers with or without 
 Currently working on two projects: [Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) a complete theme for Firefox with the style of UWP and [LRReader](https://github.com/Guerra24/LRReader) an UWP client for [LANraragi](https://github.com/Difegue/LANraragi).
 
 I know (kind of) Blender but more on the materials, lighting, rendering and compositing.
+
+### Work
+
+Currently working at `04641f5abe38298ca2259ca10184e70a053f0c2cfca3105f7c4590b4e3e126d7` as a Full Stack (NextJS + ASP.NET Core) developer and Lead DevOps.
+
+Rewriting a big ASP.NET Web Forms app and upgrading its microservices to NET 6+.
+
+Broke down and rebuilt up the entire development and deployment workflow by moving from a single SVN repo to a multi-repo GitLab instance with automated multi-environment deployment. Containerized legacy apps and its services, and new apps/services are container-ready from the beginning.
+
+Everything running on top of a Docker Swarm cluster in a mixed environment of ARM64 Linux and X86 Windows instances.
+
+<sub><sub>Btw Visual Basic is a PITA. Thank god the rewrite is C# only.</sub></sub>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
