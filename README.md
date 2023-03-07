@@ -1,6 +1,6 @@
 ### Hi, I'm Guerra24
 
-I've been doing this since 2015 and my progression is not exactly the easiest one. The first language I learned was Java along with OpenGL/GLSL as my goal back then was to create a minecraft clone. More recently worked on my own game engine and then moved to [Anarchy Engine](https://github.com/orange451/AnarchyEngine) where I wrote the entire renderer.
+I started in 2015 and my progression is not exactly the easiest one. The first language I learned was Java along with OpenGL/GLSL as my goal back then was to create a minecraft clone. More recently worked on my own game engine and then moved to [Anarchy Engine](https://github.com/orange451/AnarchyEngine) where I wrote the entire renderer.
 
 I also hack around with bleeding-edge tools and software, probably my most well known contribution was running Ubuntu's Unity desktop inside WSL 1... yeah that was me.
 
@@ -16,26 +16,87 @@ Currently working at `04641f5abe38298ca2259ca10184e70a053f0c2cfca3105f7c4590b4e3
 
 Rewriting a big ASP.NET Web Forms app and upgrading its microservices to NET 6+.
 
-Broke down and rebuilt up the entire development and deployment workflow by moving from a single SVN repo to a multi-repo GitLab instance with automated multi-environment deployment. Containerized legacy apps and its services, and new apps/services are container-ready from the beginning.
+Broke down and rebuilt up the entire development and deployment workflow by moving from a single SVN repo to a multi-repo GitLab instance with automated multi-environment deployment. Containerized legacy apps and its services, and ensured that new apps/services are container-ready from the beginning.
 
 Everything running on top of a Docker Swarm cluster in a mixed environment of ARM64 Linux and X86 Windows instances.
 
 <sub><sub>Btw Visual Basic is a PITA. Thank god the rewrite is C# only.</sub></sub>
 
-<h3 align="left">Connect with me</h3>
+## What I know
+
+<h3 align="left">Cloud</h3>
 <p align="left">
-<a href="https://twitter.com/guerra24_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guerra24_" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+<h3 align="left">Version Control</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="Github Actions" />
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI" />
+</p>
+<h3 align="left">Database</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" alt="Redis" />
+</p>
+<h3 align="left">Frameworks, libraries and others</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/EF_Core-%23512BD4.svg?style=flat&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=flat&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/UWP-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white" alt="UWP" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" />
+</p>
+<h3 align="left">Languages and others</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+</p>
+<h3 align="left">IDEs and editors</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black" alt="Notepad++" />
+</p>
+<h3 align="left">OS</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows11&logoColor=white" alt="Windows" />
+</p>
+<h3 align="left">Web browser</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white" alt="Firefox" />
+</p>
+<h3 align="left">Art</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Guerra24&show_icons=true&count_private=true&hide_title=true&hide_rank=true&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guerra24&theme=dark)
 
-<h3 align="left">Donations</h3>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/guerra24)
+<h3 align="left">I'm also here</h3>
+<p align="left">
+<a href="https://twitter.com/guerra24_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.twitch.tv/guerra24_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Mastodon" /></a>
+<a href="https://mastodon.guerra24.net/@lili" target="blank"><img align="center" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon" /></a>
+</p>
