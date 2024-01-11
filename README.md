@@ -12,15 +12,7 @@ I know (kind of) Blender but more on the materials, lighting, rendering and comp
 
 ### Work
 
-Currently working at `04641f5abe38298ca2259ca10184e70a053f0c2cfca3105f7c4590b4e3e126d7` as a Full Stack (NextJS + ASP.NET Core) developer and Lead DevOps.
-
-Rewriting a big ASP.NET Web Forms app and upgrading its microservices to NET 6+.
-
-Broke down and rebuilt up the entire development and deployment workflow by moving from a single SVN repo to a multi-repo GitLab instance with automated multi-environment deployment. Containerized legacy apps and its services, and ensured that new apps/services are container-ready from the beginning.
-
-Everything running on top of a Docker Swarm cluster in a mixed environment of ARM64 Linux and X86 Windows instances.
-
-<sub><sub>Btw Visual Basic is a PITA. Thank god the rewrite is C# only.</sub></sub>
+Looking for a job 😀
 
 ## What I know
 
